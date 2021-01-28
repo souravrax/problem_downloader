@@ -1,0 +1,7 @@
+{
+    "testCaseFolderName": "test_cases",
+    "inputFileNamePrefix": "in",
+    "outputFileNamePrefix": "out",
+    "tempOutputFile": "tempOutput",
+    "PORT": 10046
+}
