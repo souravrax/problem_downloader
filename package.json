@@ -21,6 +21,7 @@
         "boxen": "^5.0.0",
         "chalk": "^4.1.0",
         "clear": "^0.1.0",
+        "commander": "^7.0.0",
         "cookie-parser": "~1.4.4",
         "debug": "~2.6.9",
         "express": "~4.16.1",
