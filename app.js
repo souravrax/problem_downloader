@@ -65,7 +65,7 @@ app.post("/", (req, res) => {
     // Spinner.stop();
     let { name, tests, url } = req.body;
     Spinner.succeed(`Got ${tests.length} test cases!`);
-    directoryGenerator(testCaseDirectory);
+    directoryGenerator(testCaseDirectory, program.opts().folder, inputFileNamePrefix, outputFileNamePrefix);
     testGenerator(
         tests,
         program.opts().input,

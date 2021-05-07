@@ -1,5 +1,5 @@
 {
-    "testCaseFolderName": "test_cases",
+    "testCaseFolderName": ".",
     "inputFileNamePrefix": "in",
     "outputFileNamePrefix": "out",
     "tempOutputFile": "tempOutput",
