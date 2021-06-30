@@ -1,7 +1,6 @@
 {
-    "testCaseFolderName": ".",
-    "inputFileNamePrefix": "in",
-    "outputFileNamePrefix": "out",
+    "defaultInputPrefix": "in",
+    "defaultOutputPrefix": "out",
     "tempOutputFile": "tempOutput",
     "PORT": 10046
 }
